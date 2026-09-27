@@ -53,15 +53,6 @@ Founder & Technical Lead at **NonchTech**[cite: 1] and freelance AI developer[ci
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TechnoMachiene&show_icons=true&theme=radial" alt="TechnoMachiene's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TechnoMachiene&theme=radial" alt="TechnoMachiene's Streak" />
-</p>
-
----
-
 ### 📫 Let's Connect
 
 * **Email:** [abdullahtauseef988@gmail.com](mailto:abdullahtauseef988@gmail.com)[cite: 1]
